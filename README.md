@@ -117,4 +117,4 @@ Credits
 -------
 
 ****Main programmer/Developer****
-- Marek Grzyb (B1naryKill3r)
+- Marek Grzyb (GrzybDev)
